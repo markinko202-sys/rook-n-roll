@@ -1,0 +1,14 @@
+{
+  "candy": {
+    "light": { "T_main": "#FFF6FA", "T_accent": "#FF7EB8", "T_base": "#FFF0F7", "T_glow": "#FFE38A", "T_ring": "#FFC83D" },
+    "dark":  { "T_main": "#4C3BC9", "T_accent": "#2EC4B6", "T_base": "#2F2380", "T_glow": "#8FF0FF", "T_ring": "#2EC4B6" }
+  },
+  "spooky": {
+    "light": { "T_main": "#ECE8FF", "T_accent": "#7FE0B5", "T_base": "#D9D2FF", "T_glow": "#E6FFF4", "T_ring": "#7FE0B5" },
+    "dark":  { "T_main": "#2E2545", "T_accent": "#FF8A1F", "T_base": "#1C1530", "T_glow": "#B07CFF", "T_ring": "#FF8A1F" }
+  },
+  "galaxy": {
+    "light": { "T_main": "#FFFFFF", "T_accent": "#FFB020", "T_base": "#E8F1FF", "T_glow": "#FFD23F", "T_ring": "#4DE1FF" },
+    "dark":  { "T_main": "#3A2A8C", "T_accent": "#FF4FD8", "T_base": "#21184F", "T_glow": "#B14CFF", "T_ring": "#FF4FD8" }
+  }
+}

@@ -1,0 +1,5 @@
+.DS_Store
+__pycache__/
+blender/__pycache__/
+.claude/
+renders/
